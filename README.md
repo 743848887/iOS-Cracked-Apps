@@ -30,4 +30,4 @@
 
 > **dumpdecrypted** 砸壳后的破解是一个文件，而 **Clutch** 砸壳后是将主应用和各 Extension 的 Mach-O 文件区分目录导出的。
 
-> 有些项目使用 Objective-C 和 Swift 混编，因此无法直接使用 `class-dump`，dump 的时候会抛出 `Error: Cannot find offset for address xxx in stringAtAddress` 的错误，就像上面列表中的格瓦拉就是混编的情况，我 Fork 了 `class-dump` 修改后，现在可以支持 Objective-C 和 Swift 混编的 Mach-O 文件，有兴趣的可以去[这个仓库](https://github.com/aozhimin/iOS-Class-Dump)下载来使用。
+> 有些项目使用 Objective-C 和 Swift 混编，因此无法直接使用 `class-dump`，dump 的时候会抛出 `Error: Cannot find offset for address xxx in stringAtAddress` 的错误，就像上面列表中的格瓦拉就是混编的情况，我 Fork 了 `class-dump` 修改后，现在可以支持 Objective-C 和 Swift 混编的 Mach-O 文件，但只会 dump 出来 Objective-C 的头文件，Swift 的文件不处理，有兴趣的可以去[这个仓库](https://github.com/aozhimin/iOS-Class-Dump)下载来使用。
