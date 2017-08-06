@@ -8,6 +8,8 @@
 
 > 提供国内外知名 App 破解二进制文件，可以将这些已经破解的二进制文件通过反编译工具进行静态分析，另外仓库中已经从破解的二进制文件 dump 出了 Class 信息。
 
+## Apps
+
 | App | Version | Dumped Classes | 砸壳工具 | 
 |:-------:|:-------:|:------|:------|
 | 微信 | 6.5.12 | [WeChat](./DumpedClasses/WeChat/) | dumpdecrypted |
@@ -25,6 +27,14 @@
 | 今日头条 | 6.2.1 | [News](./DumpedClasses/News/) | dumpdecrypted |
 | 滴滴出行 | 5.1.4 | [OneTravel](./DumpedClasses/OneTravel/) | dumpdecrypted |
 | 格瓦拉 | 9.0.1 | [GWMovie](./DumpedClasses/GWMovie/) | dumpdecrypted |
+
+
+## SDKs
+
+| SDK | Version | Dumped Classes | 
+|:-------:|:-------:|:------|:------|
+| 听云 | 2.5.9 | [NBSAppAgent](./DumpedClasses/NBSAppAgent/) |
+
 
 > 由于是在 64 位机器上砸壳，**dumpdecrypted** 只会对当前运行机器架构进行内存 dump，比如二进制包含 armv7 和 arm64 两种架构，但是因为是在 64 位机器砸壳，所以破解的 Mach-O 文件中只有 arm64 这种架构是破解后的。另外 Hopper V3 是不支持生成 arm64 的伪代码的，若想要获取伪代码，则应该使用 Hopper V4。
 
