@@ -32,7 +32,7 @@
 ## SDKs
 
 | SDK | Version | Dumped Classes | 
-|:-------:|:-------:|:------|:------|
+|:-------:|:-------:|:------|
 | 听云 | 2.5.9 | [NBSAppAgent](./DumpedClasses/NBSAppAgent/) |
 
 
