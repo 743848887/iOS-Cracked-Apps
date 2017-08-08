@@ -27,7 +27,7 @@
 | 今日头条 | 6.2.1 | [News](./DumpedClasses/News/) | dumpdecrypted |
 | 滴滴出行 | 5.1.4 | [OneTravel](./DumpedClasses/OneTravel/) | dumpdecrypted |
 | 格瓦拉 | 9.0.1 | [GWMovie](./DumpedClasses/GWMovie/) | dumpdecrypted |
-
+| Tweetbot 3 | 3.6.2 | [Tweetbot](./DumpedClasses/Tweetbot/) | dumpdecrypted |
 
 ## SDKs
 
