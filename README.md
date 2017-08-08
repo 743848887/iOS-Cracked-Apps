@@ -28,12 +28,16 @@
 | 滴滴出行 | 5.1.4 | [OneTravel](./DumpedClasses/OneTravel/) | dumpdecrypted |
 | 格瓦拉 | 9.0.1 | [GWMovie](./DumpedClasses/GWMovie/) | dumpdecrypted |
 | Tweetbot 3 | 3.6.2 | [Tweetbot](./DumpedClasses/Tweetbot/) | dumpdecrypted |
+| Facebook | 94.0 | [Facebook](./DumpedClasses/Facebook/) | dumpdecrypted |
+| 腾讯手机管家 | 7.1 | [MQQSecure](./DumpedClasses/MQQSecure/) | dumpdecrypted |
+
 
 ## SDKs
 
 | SDK | Version | Dumped Classes | 
 |:-------:|:-------:|:------|
 | 听云 | 2.5.9 | [NBSAppAgent](./DumpedClasses/NBSAppAgent/) |
+| New Relic | 5.13.0 | [NewRelic](./DumpedClasses/NewRelic/) |
 
 
 > 由于是在 64 位机器上砸壳，**dumpdecrypted** 只会对当前运行机器架构进行内存 dump，比如二进制包含 armv7 和 arm64 两种架构，但是因为是在 64 位机器砸壳，所以破解的 Mach-O 文件中只有 arm64 这种架构是破解后的。另外 Hopper V3 是不支持生成 arm64 的伪代码的，若想要获取伪代码，则应该使用 Hopper V4。
