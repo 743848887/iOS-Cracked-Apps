@@ -18,6 +18,7 @@
 | 手机淘宝 | 6.9.1 | [Taobao](./DumpedClasses/Taobao/) | Clutch 砸壳失败 dumpdecrypted 砸壳成功|
 | 手机QQ | 7.1.5 | [QQ](./DumpedClasses/QQ/) | Clutch |
 | 腾讯视频 | 7.1.5 | [TencentLive](./DumpedClasses/TencentLive/) | Clutch |
+| 爱奇艺 | 8.7.5 | [iQiYiPhoneVideo](./DumpedClasses/iQiYiPhoneVideo/) | dumpdecrypted |
 | 饿了么 | 7.1.5 | [Eleme](./DumpedClasses/Eleme/) | dumpdecrypted |
 | 闲鱼 | 5.8.7 | [FleaMarket](./DumpedClasses/FleaMarket/) | dumpdecrypted |
 | 小红书 | 4.22.1 | [Discover](./DumpedClasses/Discover/) | dumpdecrypted |
@@ -29,7 +30,7 @@
 | 格瓦拉 | 9.0.1 | [GWMovie](./DumpedClasses/GWMovie/) | dumpdecrypted |
 | 腾讯手机管家 | 7.1 | [MQQSecure](./DumpedClasses/MQQSecure/) | dumpdecrypted |
 | 流利说 | 5.4 | [Lingome](./DumpedClasses/Lingome/) | dumpdecrypted |
-| WIFI万能钥匙 | 5.4 | [Zeus](./DumpedClasses/Zeus/) | dumpdecrypted |
+| WIFI万能钥匙 | 4.2.3 | [Zeus](./DumpedClasses/Zeus/) | dumpdecrypted |
 | Tweetbot 3 | 3.6.2 | [Tweetbot](./DumpedClasses/Tweetbot/) | dumpdecrypted |
 | Facebook | 94.0 | [Facebook](./DumpedClasses/Facebook/) | dumpdecrypted |
 
