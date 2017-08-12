@@ -29,6 +29,7 @@
 | 格瓦拉 | 9.0.1 | [GWMovie](./DumpedClasses/GWMovie/) | dumpdecrypted |
 | 腾讯手机管家 | 7.1 | [MQQSecure](./DumpedClasses/MQQSecure/) | dumpdecrypted |
 | 流利说 | 5.4 | [Lingome](./DumpedClasses/Lingome/) | dumpdecrypted |
+| WIFI万能钥匙 | 5.4 | [Zeus](./DumpedClasses/Zeus/) | dumpdecrypted |
 | Tweetbot 3 | 3.6.2 | [Tweetbot](./DumpedClasses/Tweetbot/) | dumpdecrypted |
 | Facebook | 94.0 | [Facebook](./DumpedClasses/Facebook/) | dumpdecrypted |
 
