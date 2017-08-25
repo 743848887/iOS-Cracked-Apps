@@ -33,6 +33,7 @@
 | WIFI万能钥匙 | 4.2.3 | [Zeus](./DumpedClasses/Zeus/) | dumpdecrypted |
 | Tweetbot 3 | 3.6.2 | [Tweetbot](./DumpedClasses/Tweetbot/) | dumpdecrypted |
 | Facebook | 94.0 | [Facebook](./DumpedClasses/Facebook/) | dumpdecrypted |
+| 简易系统状态 | 3.0.2 | [U_Status_Lite](./DumpedClasses/U_Status_Lite/) | dumpdecrypted |
 
 
 ## SDKs
