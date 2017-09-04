@@ -16,6 +16,7 @@
 | 支付宝| 10.0.19 | [Alipay](./DumpedClasses/Alipay/) | dumpdecrypted 砸壳失败 Clutch 砸壳成功 |
 | 携程 | 7.5.2 | [Ctrip](./DumpedClasses/Ctrip/) | dumpdecrypted |
 | 手机淘宝 | 6.9.1 | [Taobao](./DumpedClasses/Taobao/) | Clutch 砸壳失败 dumpdecrypted 砸壳成功|
+| 口碑 | 6.0.6 | [KouBei](./DumpedClasses/KouBei/) | dumpdecrypted |
 | 手机QQ | 7.1.5 | [QQ](./DumpedClasses/QQ/) | Clutch |
 | 腾讯视频 | 7.1.5 | [TencentLive](./DumpedClasses/TencentLive/) | Clutch |
 | 爱奇艺 | 8.7.5 | [iQiYiPhoneVideo](./DumpedClasses/iQiYiPhoneVideo/) | dumpdecrypted |
